@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026665195251",
+    "project_id": "proyectofirebaseadripmdm",
+    "storage_bucket": "proyectofirebaseadripmdm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026665195251:android:2a83a31b3d1a9186427986",
+        "android_client_info": {
+          "package_name": "com.example.makeitsoadrian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPM7ttqDNQlKDm1RS3KQSwDoo5BxaH--w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
